@@ -37,7 +37,7 @@ This project analyzes **electric vehicle registrations** to uncover patterns in 
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/EV-Adoption-Dashboard.git
+   git clone https://github.com/Agastya01/Electric-Vehicle-Data-Analysis.git
    ```
 2. Open `EV_Adoption_Dashboard.twb` in Tableau Desktop (or Tableau Public).
 3. When prompted, link the workbook to the `ev_registrations.csv` file (if the path changed).
@@ -51,4 +51,4 @@ This project analyzes **electric vehicle registrations** to uncover patterns in 
 - Provided actionable insights for **infrastructure & policy planning**.
 
 ### 📝 Author
-Created by **[Your Name]** – Data Analyst / Tableau Developer
+Created by **[Agastya Upadhyay]** – Data Analyst / Tableau Developer
